@@ -1,0 +1,6 @@
+discord_webhook
+python-dotenv
+influxdb_client
+pandas
+matplotlib
+cloudinary
